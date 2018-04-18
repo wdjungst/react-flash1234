@@ -1,0 +1,28 @@
+{
+  "name": "react-flash",
+  "version": "1.0.0",
+  "description": "A self destructing react flash component",
+  "main": "./dist/index.js",
+  "homepage": "https://github.com/wdjungst/react-flash1234",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdjungst/react-flash1234"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dave Jungst",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "styled-components": "^3.2.6",
+    "webpack": "^4.6.0"
+  }
+}
